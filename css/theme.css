@@ -10629,7 +10629,7 @@ img.lightbulb {
 .tblcomment {
   font-size: 70%;
   font-weight: normal;
-  color: #009;
+  color: #ececec;
 }
 
 .tblHeaders {
@@ -13761,7 +13761,7 @@ li.fast_filter span {
   padding: 0.2em;
   cursor: pointer;
   font-weight: bold;
-  color: #800;
+  color: #ccc;
   font-size: 0.7em;
 }
 
@@ -15950,7 +15950,7 @@ a {
 }
 
 a:link, a:visited, a:active {
-  color: #2196F3;
+  color: #fff;
 }
 
 a:hover {
