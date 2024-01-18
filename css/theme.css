@@ -12278,6 +12278,7 @@ input#auto_increment_opt {
   position: absolute;
   -webkit-box-shadow: 0 0.2em 0.5em #333;
   box-shadow: 0 0.2em 0.5em #333;
+  color: #1b1e21;
 }
 
 .cList .lDiv div {
